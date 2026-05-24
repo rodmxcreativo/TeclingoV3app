@@ -1,0 +1,50 @@
+[
+  {
+    "code": "LGE-1017",
+    "name": "Introducción a la Logística",
+    "semester": 1,
+    "hours": 4
+  },
+  {
+    "code": "AEC-1014",
+    "name": "Contabilidad Orientada a los Negocios",
+    "semester": 1,
+    "hours": 4
+  },
+  {
+    "code": "ACC-0906",
+    "name": "Fundamentos de Investigación",
+    "semester": 1,
+    "hours": 4
+  },
+  {
+    "code": "ACA-0907",
+    "name": "Taller de Ética",
+    "semester": 1,
+    "hours": 4
+  },
+  {
+    "code": "AEF-1011",
+    "name": "Cálculo Diferencial",
+    "semester": 1,
+    "hours": 5
+  },
+  {
+    "code": "LGD-1007",
+    "name": "Dibujo Asistido por Computadora",
+    "semester": 1,
+    "hours": 4
+  },
+  {
+    "code": "TUT-0001",
+    "name": "Tutoría",
+    "semester": 1,
+    "hours": 2
+  },
+  {
+    "code": "CLE-0001",
+    "name": "Lengua Extranjera (Inglés)",
+    "semester": 1,
+    "hours": 4
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "code": "AEF-1025",
+    "name": "Fundamentos de Gestión Empresarial",
+    "semester": 1,
+    "hours": 5
+  },
+  {
+    "code": "AEC-1014",
+    "name": "Contabilidad Orientada a los Negocios",
+    "semester": 1,
+    "hours": 4
+  },
+  {
+    "code": "ACC-0906",
+    "name": "Fundamentos de Investigación",
+    "semester": 1,
+    "hours": 4
+  },
+  {
+    "code": "ACA-0907",
+    "name": "Taller de Ética",
+    "semester": 1,
+    "hours": 4
+  },
+  {
+    "code": "AEF-1052",
+    "name": "Fundamentos de Física",
+    "semester": 1,
+    "hours": 5
+  },
+  {
+    "code": "AEF-1011",
+    "name": "Cálculo Diferencial",
+    "semester": 1,
+    "hours": 5
+  },
+  {
+    "code": "TUT-0001",
+    "name": "Tutoría",
+    "semester": 1,
+    "hours": 2
+  },
+  {
+    "code": "CLE-0001",
+    "name": "Lengua Extranjera (Inglés)",
+    "semester": 1,
+    "hours": 4
+  }
+]
